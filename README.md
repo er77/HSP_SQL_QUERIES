@@ -1,3 +1,5 @@
 # HSP_SQL_QUERIES
-Oracle Hyperion SQL examples for getting data from metadata repositories
+Oracle Hyperion Planning examples with using  SQL 
+  
+ Some tips about howto get  data from metadata repositories
  
